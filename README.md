@@ -1,0 +1,1 @@
+This repository showcases a subtle type-related bug in Ruby.  The `MyClass` example allows an attribute to change type without explicit type checking, leading to potential runtime errors if not handled carefully. The solution demonstrates safer type handling.
